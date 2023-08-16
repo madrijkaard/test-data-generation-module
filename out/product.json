@@ -1,0 +1,80 @@
+{
+    "codigo": "d6672768eb5e50660f04ffdebc8fd2385462975267adbfd7c52b111ad5fde0f1",
+    "natural": 8,
+    "inteiro": -16223,
+    "data": "26/12/2023",
+    "timestamp": "22/09/2017 08:09:22",
+    "masculino": "Wilson",
+    "feminino": "Isabella",
+    "sobrenome": "Carvalho Teixeira",
+    "endereço": "Avenida da Perseverança",
+    "cidade": "Contagem",
+    "colecao_natural": [
+        8
+    ],
+    "colecao_inteiro": [
+        -72408
+    ],
+    "colecao_data": [
+        "31/01/2015"
+    ],
+    "colecao_timestamp": [
+        "18/05/2006 19:01:25"
+    ],
+    "objeto1": {
+        "objeto2": {
+            "colecao_masculino": [
+                "Roberto"
+            ]
+        },
+        "objeto3": {
+            "colecao_feminino": [
+                "Amanda"
+            ]
+        },
+        "objeto4": {
+            "colecao_sobrenome": [
+                "Azevedo Araújo",
+                "Carvalho Peixoto"
+            ]
+        },
+        "objeto5": [
+            {
+                "colecao_masculino": [
+                    "Arthur"
+                ],
+                "colecao_feminino": [
+                    "Lara"
+                ],
+                "colecao_sobrenome": [
+                    "Ribeiro Brito",
+                    "Machado Rios"
+                ]
+            },
+            {
+                "colecao_masculino": [
+                    "Valentim"
+                ],
+                "colecao_feminino": [
+                    "Mariana"
+                ],
+                "colecao_sobrenome": [
+                    "Carvalho Cavalcanti",
+                    "Farias Gouveia"
+                ]
+            },
+            {
+                "colecao_masculino": [
+                    "Saulo"
+                ],
+                "colecao_feminino": [
+                    "Eduarda"
+                ],
+                "colecao_sobrenome": [
+                    "Peixoto Neves",
+                    "Carvalho Rangel"
+                ]
+            }
+        ]
+    }
+}

@@ -1,0 +1,34 @@
+{
+        "codigo":"HASH",
+        "natural":"NATURAL",
+        "inteiro":"INTEGER",
+        "data":"DATE",
+        "timestamp":"DATETIME",
+        "masculino":"FIRST_NAME_1",
+        "feminino":"FIRST_NAME_2",
+        "sobrenome":"LAST_NAME",
+        "endereço":"ADRESSES",
+        "cidade":"CITY",
+        "colecao_natural":"COLLECTION_NATURAL",
+        "colecao_inteiro":"COLLECTION_INTEGER",
+        "colecao_data":"COLLECTION_DATE",
+        "colecao_timestamp":"COLLECTION_DATETIME",
+        "objeto1": {
+                "objeto2": {
+                        "colecao_masculino":"COLLECTION_FIRST_NAME_1" 
+                },
+                "objeto3": {
+                        "colecao_feminino":"COLLECTION_FIRST_NAME_2" 
+                },
+                "objeto4": {
+                        "colecao_sobrenome":"COLLECTION_LAST_NAME"
+                },
+                "objeto5": [
+                        {
+                                "colecao_masculino":"COLLECTION_FIRST_NAME_1",
+                                "colecao_feminino":"COLLECTION_FIRST_NAME_2",
+                                "colecao_sobrenome":"COLLECTION_LAST_NAME"
+                        } 
+                ]
+        }
+}
